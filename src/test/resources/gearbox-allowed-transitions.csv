@@ -1,0 +1,9 @@
+from,to,speedKmh
+P,R,0.0
+P,R,4.9
+R,N,0.0
+R,N,50.0
+N,D,0.0
+N,D,50.0
+R,D,0.0
+D,R,0.0
